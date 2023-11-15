@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+    ;
+}
+
+h1 {
+    font-size: 50;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px, 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5;
+}
+
+.top-banner {
+    background-image: url(bello-bello-phiotio.avif);
+}
